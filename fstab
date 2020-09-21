@@ -1,0 +1,3 @@
+# /etc/fstab: static file system information
+UUID=26b22f51-cd73-4dde-88da-19ccef660ed4 / ext4 rw,discard,errors=remount-ro 0 0
+UUID=FCCD-070B /boot/efi vfat defaults 0 0
